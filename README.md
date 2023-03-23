@@ -1,7 +1,6 @@
 # Crowdfunding_ETL
 Our group repository for the ETL project
 
-Instructions
 The instructions for this mini project are divided into the following subsections:
 
 Create the Category and Subcategory DataFrames
