@@ -103,6 +103,7 @@ Clean and then export the DataFrame as contacts.csv and save it to your GitHub r
 Check that your final DataFrame resembles the one in the following image:
 
 ![image](https://user-images.githubusercontent.com/119901186/227388192-2699eff7-d087-41e6-a87c-042cafcf6037.png)
+Create the CrowdDatabase
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 
 Use the information from the ERD to create a table schema for each CSV file.
